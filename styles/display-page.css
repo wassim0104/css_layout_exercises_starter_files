@@ -1,0 +1,55 @@
+.top {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    width: 800px;
+    font-size: 0;
+}
+
+.bottom {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    font-size: 0;
+}
+
+
+.left_top_rect {
+    height: 200px;
+    width: 50%;
+    display: inline-block;
+    background-color: green;
+    border: 1px black solid;
+}
+
+.right_top_rect {
+    height: 200px;
+    width: 50%;
+    display: inline-block;
+    background-color: blue;
+    border: 1px black solid;
+}
+
+.left_bottom_rect {
+    height: 300px;
+    width: 33.33%;
+    display: inline-block;
+    background-color: grey;
+    border: 1px solid black;
+}
+
+.middle_bottom_rect {
+    height: 300px;
+    width: 33.33%;
+    display: inline-block;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.right_bottom_rect {
+    height: 300px;
+    width: 33.33%;
+    display: inline-block;
+    background-color: chocolate;
+    border: 1px solid black;
+}
