@@ -10,3 +10,15 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.float-image-toleft {
+  height: 300px;
+  float: left;
+  margin: 10px;
+}
+
+.float-image-toright {
+  height: 300px;
+  float: right;
+  margin: 10px;
+}
